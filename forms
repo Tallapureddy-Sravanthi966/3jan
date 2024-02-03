@@ -1,0 +1,116 @@
+<html>
+    <h1 align="middle">forms</h1>
+    <h1>Register</h1>
+    <label >First name:</label>
+    <input type="text"><br><br>
+    <label>Last name:</label>
+    <input type="text"><br><br>
+    <lable>Email:</lable>
+    <input type="email"><br><br>
+    <label>Password:</label>
+    <input type="password"><br><br>
+    <label>Confirm password:</label>
+    <input type="password">
+    <h2>Gender:</h2>
+  <li>
+  <input type="radio" name="Gender">
+  <label>Male</label>
+ </li>
+ <li>
+ <input type="radio" name="Gender">
+ <label>Female</label>
+ </li>
+ <li>
+ <input type="radio" name="Gender">
+ <label>Other</label><br><br>
+ </li>
+  <input type="submit" value="Submit">
+
+
+
+
+
+  <h1><center>Another Form</center></h1>
+  <label>Name:</label>
+  <input type="text" value="Sravanthi" readonly>
+  <label><h3>Email Id</h3></label>
+  <input type="email">
+  <label><h3>Mobile Nuber:</h3></label>
+  <input type="number">
+  <label><h3>Twitter URL:</h3></label>
+  <input type="url">
+  <h2>Languages </h2>
+  <li>
+    <input type="radio" name="Language">
+    <label>HTML</label>
+  </li>
+  <li>
+    <input type="radio" name="Language">
+    <label>CSS</label>
+  </li>
+  <li>
+    <input type="radio" name="Language">
+    <label>JS</label>
+  </li>
+
+
+
+
+
+
+  <h2>Areas of intrest Select 3 options:</h2>
+  <input type="checkbox" name="Languages" >
+  <label>HTML</label><br>
+  <input type="checkbox" name="Languages">
+  <label>CSS</label><br>
+  <input type="checkbox" name="Languages">
+  <label>JS</label><br>
+  <input type="checkbox" name="Languages">
+  <label>PYTHON</label><br>
+
+ 
+
+  
+
+  <h1><center>FORM3</center></h1>
+  <h2>Lorem ipsum:</h2>
+  <hr>
+  <label><b>Input one:</b></label>
+  <input type="text"style="width: ;"  ><br><br>
+  <label><b>Input one:</b></label>
+  <input type="text">
+  <h2>sravanthi</h2>
+  <hr>
+  <label><b>B.Tech:</b></label>
+  <select style="width: 200;">
+    <option>----choose any one----</option>
+    <option>CSE</option>
+    <option>ECE</option>
+    <option>EEE</option>
+  </select><br><br>
+  <label><b>Colleges:</b></label>
+  <select style="width: 200;">
+    <option>----choose any one----</option>
+    <option>MLR</option>
+    <option>MRCEW</option>
+    <option>MLRIT</option>
+  </select>
+  <h2>Text area:</h2>
+  <hr>
+  <textarea></textarea><br><br>
+  <hr>
+  <label>caluclator:1 + 1 =</label>
+  <input type="box" style="width: 50"><br><br>
+  <input type="submit" value="submit">
+
+
+
+  
+
+
+
+    
+    
+
+
+</html>
